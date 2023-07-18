@@ -32,7 +32,7 @@ Interface是手写数字识别的窗口UI交互，可以手动改源码来更换
 
 ## 使用注意事项
 
-文件中的路径是我这里本地的绝对路径"D:\data\program\NumberRecognizer\NumberRecognizer"，
+关于文件中的路径，我这里有的写的是本地的绝对路径"D:\data\program\NumberRecognizer\NumberRecognizer"，
 运行程序的时候请根据实际环境更改路径——直接在源码上搜索替换吧……
 
 Interface程序运行中，回车是“识别”的快捷键，delete键是“清空”的快捷键。
