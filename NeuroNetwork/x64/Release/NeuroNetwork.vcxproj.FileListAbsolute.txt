@@ -1,0 +1,1 @@
+D:\data\program\NumberRecognizer\NumberRecognizer\NeuroNetwork\x64\Release\NeuroNetwork.vcxproj.CopyComplete

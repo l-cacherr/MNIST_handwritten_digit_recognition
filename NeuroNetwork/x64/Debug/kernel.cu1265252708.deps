@@ -1,0 +1,426 @@
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\cderr.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\sdkddkver.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winsmcrd.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\errno.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\sys\stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\sys\types.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\commdlg.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dde.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ddeml.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dlgs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dpapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ime_cmodes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\joystickapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\lzexpand.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mcx.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mmeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mmiscapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mmiscapi2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\nb30.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ncrypt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\playsoundapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\shellapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\timeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wincrypt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winperf.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winscard.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winspool.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wow64apiset.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\builtin_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\channel_descriptor.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\common_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\cudacc_ext.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\device_double_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\device_double_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\device_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\device_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\host_config.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\host_defines.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\math_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\math_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\sm_70_rt.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\sm_80_rt.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\crt\sm_90_rt.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\cuda_device_runtime_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\cuda_runtime_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\device_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\device_launch_parameters.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\device_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\driver_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\driver_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\library_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_20_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_20_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_30_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_32_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_32_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_35_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_35_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_60_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\sm_61_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\surface_indirect_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\surface_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\texture_indirect_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\texture_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\vector_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\vector_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include\vector_types.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\calib3d.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\affine.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\async.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\base.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\bufferpool.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\check.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cuda.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cuda.inl.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cuda_types.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cvdef.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cvstd.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cvstd.inl.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cvstd_wrapper.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\cv_cpu_dispatch.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\fast_math.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\hal\interface.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\mat.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\neon_utils.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\operations.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\optim.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\ovx.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\persistence.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\saturate.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\traits.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\types.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\utility.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\version.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\core\vsx_utils.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\dnn.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\dnn\dict.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\dnn\dnn.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\dnn\dnn.inl.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\dnn\layer.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\dnn\utils\inference_engine.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\dnn\version.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\features2d.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\allocator.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\all_indices.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\any.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\autotuned_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\composite_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\config.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\defines.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\dist.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\dynamic_bitset.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\flann_base.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\general.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\ground_truth.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\heap.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\hierarchical_clustering_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\index_testing.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\kdtree_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\kdtree_single_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\kmeans_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\linear_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\logger.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\lsh_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\lsh_table.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\matrix.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\miniflann.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\nn_index.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\params.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\random.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\result_set.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\sampling.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\saving.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\flann\timer.h
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\highgui.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\imgcodecs.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\imgproc.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\imgproc\segmentation.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\ml.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\ml\ml.inl.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\objdetect.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\objdetect\detection_based_tracker.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\objdetect\face.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\opencv.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\opencv_modules.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\photo.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\blenders.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\camera.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\exposure_compensate.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\matchers.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\motion_estimators.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\seam_finders.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\util.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\util_inl.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\warpers.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\warpers_inl.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\stitching\warpers.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\video.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\videoio.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\video\background_segm.hpp
+D:\data\lib\vcpkg\installed\x64-windows\include\opencv2\video\tracking.hpp
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\algorithm
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\ammintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\array
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\atomic
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cctype
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cerrno
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cfloat
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\chrono
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\climits
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\clocale
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cmath
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\complex
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\concurrencysal.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\crtdefs.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cstdarg
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cstddef
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cstdint
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cstdio
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cstdlib
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cstring
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\ctime
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\cwchar
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\deque
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\eh.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\emmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\exception
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\excpt.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\functional
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\immintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\initializer_list
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\intrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\intrin0.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\intrin0.inl.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\iomanip
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\ios
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\iosfwd
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\iostream
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\isa_availability.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\istream
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\iterator
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\limits
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\limits.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\list
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\map
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\memory
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\mmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\mutex
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\new
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\nmmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\ostream
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\pmmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\queue
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\ratio
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\sal.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\set
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\setjmp.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\smmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\sstream
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\stdarg.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\stdexcept
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\stdint.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\streambuf
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\string
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\system_error
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\thread
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\tmmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\tuple
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\typeinfo
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\type_traits
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\unordered_map
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\use_ansi.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\utility
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vadefs.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_exception.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_new.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_new_debug.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_startup.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_string.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_typeinfo.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\vector
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\wmmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xatomic.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xbit_ops.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xcall_once.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xerrc.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xfacet
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xhash
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xiosbase
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xkeycheck.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xlocale
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xlocinfo
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xlocmon
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xlocnum
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xloctime
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xmemory
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xmmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xstddef
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xstring
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xthreads.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xtimec.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xtr1common
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xtree
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\xutility
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\ymath.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\yvals.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\yvals_core.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\zmmintrin.h
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_chrono.hpp
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_iter_core.hpp
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_system_error_abi.hpp
+D:\software\Visual Studio\Community\VC\Tools\MSVC\14.35.32215\include\__msvc_xlocinfo_types.hpp
