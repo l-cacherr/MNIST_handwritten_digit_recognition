@@ -13,6 +13,8 @@ cuda12.1, gnuplot, boost, qt6.5.1, opencv
 
 请查看相关官网和博客教程等进行安装。
 
+由于上传限制，无法将完整的解决方案上传，不过应该可以单独打开每个项目（有的因为文件大小限制删去了.vs文件夹）。如果遇到文件报错情况，请自行尝试修复，或者新建项目复制源码。
+
 ## 文件结构
 
 NeuroNetwork是训练用的。
@@ -38,6 +40,8 @@ Interface是手写数字识别的窗口UI交互，可以手动改源码来更换
 Interface程序运行中，回车是“识别”的快捷键，delete键是“清空”的快捷键。
 
 ## 一些说明
+
+由于上传限制，无法上传完整数据集，请搜索MNIST数据集并下载。包括四个文件:"t10k-images.idx3-ubyte""t10k-labels.idx1-ubyte""train-images.idx3-ubyte""train-labels.idx1-ubyte".
 
 使用了ChatGPT进行辅助编程。
 
