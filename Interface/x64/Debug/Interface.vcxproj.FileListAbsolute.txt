@@ -1,0 +1,4 @@
+C:\Users\ldj\Desktop\Interface\x64\Debug\Interface.vcxproj.CopyComplete
+C:\Users\ldj\Desktop\Interface\x64\Debug\Interface.exe
+C:\Users\ldj\Desktop\Interface\x64\Debug\opencv_core4.dll
+C:\Users\ldj\Desktop\Interface\x64\Debug\zlib1.dll

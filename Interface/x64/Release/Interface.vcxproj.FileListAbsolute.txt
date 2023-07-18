@@ -1,0 +1,5 @@
+D:\data\program\NumberRecognizer\NumberRecognizer\Interface\x64\Release\Interface.vcxproj.CopyComplete
+C:\Users\ldj\Desktop\Interface\x64\Release\Interface.vcxproj.CopyComplete
+C:\Users\ldj\Desktop\Interface\x64\Release\Interface.exe
+C:\Users\ldj\Desktop\Interface\x64\Release\opencv_core4.dll
+C:\Users\ldj\Desktop\Interface\x64\Release\zlib1.dll

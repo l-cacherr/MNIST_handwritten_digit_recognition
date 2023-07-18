@@ -1,0 +1,649 @@
+﻿  Reading Qt configuration (D:/data/lib/qt/6.5.1/msvc2019_64/bin/qmake)
+  uic Interface.ui
+  rcc Interface.qrc
+  moc Interface.h
+   RCC: Warning: No resources in 'C:\Users\ldj\Desktop\Interface\Interface.qrc'.
+  main.cpp
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x42f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x431 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x435 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x43a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x43b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x43e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x440 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x441 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x444 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x446 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x447 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x448 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x44b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x473 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x475 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x477 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x47a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x47b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x47c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x480 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x4f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x4f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x4f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x4fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x4ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x500 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x501 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x538 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x53a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x53e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x543 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x544 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x547 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x549 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x54a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x54d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x54f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x550 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x551 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x554 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x57b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x57d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x57f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x582 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x583 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x584 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\main.cpp(1,1): warning C4828: 文件包含在偏移 0x588 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x318 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x350 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x354 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x361 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x363 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x402 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x409 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c14 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c17 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c25 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c2f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c62 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2caa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cd6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cd8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cde 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cdf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ceb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dbe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e0c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e14 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e15 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e18 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e19 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2eff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f8c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ff6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ff8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ffa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ffb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ffe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3304 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3305 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3306 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3308 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x330c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x330e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3400 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3406 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3407 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3408 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3409 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x340a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x340b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x340e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3411 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3413 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3520 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3668 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3674 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3676 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3678 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3679 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3680 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3681 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3683 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a00 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3aba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3abd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ac0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ac3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ec2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ec3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ecb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ecc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3eda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3edb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3edd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3edf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ee4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ee6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ee9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ef0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ef2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3fea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3feb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3fed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x413d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x413f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4143 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  qrc_Interface.cpp
+  moc_Interface.cpp
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x318 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x350 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x354 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x361 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x363 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x402 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x409 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c14 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c17 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c25 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c2f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c62 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2c9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ca9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2caa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cd6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cd8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cde 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2cdf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ce9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ceb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dbe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2dc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e0c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e14 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e15 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e18 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e19 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2e1f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ef7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2efe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2eff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f8c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2f9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ff6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ff7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ff8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ffa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ffb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x2ffe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3000 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x30ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x31f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3304 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3305 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3306 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3308 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x330c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x330e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x33ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3400 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3406 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3407 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3408 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3409 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x340a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x340b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x340e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3411 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3413 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x351e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3520 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x35de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3668 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x366f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3674 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3676 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3678 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3679 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3680 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3681 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3683 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x39ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a00 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a0b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3a10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ab9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3aba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3abd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ac0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ac3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ec2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ec3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ecb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ecc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ed9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3eda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3edb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3edd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3edf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ee4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ee6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ee9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ef0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ef2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3fea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3feb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3fed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x3ff3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x40b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x413d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x413f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4143 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+C:\Users\ldj\Desktop\Interface\Interface.h(1,1): warning C4828: 文件包含在偏移 0x4148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_Interface.cpp)
+  Interface.vcxproj -> C:\Users\ldj\Desktop\Interface\x64\Debug\Interface.exe
