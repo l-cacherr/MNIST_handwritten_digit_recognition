@@ -1,0 +1,1 @@
+D:\data\program\NumberRecognizer\NumberRecognizer\MirrorNeuroNetwork\x64\Release\MirrorNeuroNetwork.vcxproj.CopyComplete
